@@ -1,6 +1,7 @@
 # GitHub Notes
 
-To check your own understanding of GitHub, answer the questions that follow.
+To share work and save a copy in your remote place
 
-1. **What is the purpose of GitHub?** Write your response here.
-1. **What is the difference between forking and cloning a repository?** Write your response here.
+1. **What is the purpose of GitHub?** 
+To share work and save a copy in your remote place
+1. **What is the difference between forking and cloning a repository?** Forking is a remote copy. Cloning is a copy on your local machine
